@@ -1,3 +1,8 @@
+![Screenshot_20241021_154630_com android chrome](https://github.com/user-attachments/assets/8b654e45-dc2c-4b57-aa51-75ad596b7a4a)
+![Screenshot_20241021_162540_com android chrome](https://github.com/user-attachments/assets/4f315d1a-b2e5-4dac-ad98-37e4736fa8c2)
+![Screenshot_20241021_164816_com android chrome](https://github.com/user-attachments/assets/8adddf24-2370-46cd-a2c5-070fefcb2789)
+![OKX_1728705152927](https://github.com/user-attachments/assets/78e7fdb1-eee8-4d13-957d-5b947fe8eda3)
+![Screenshot_20241021_164742_com android chrome](https://github.com/user-attachments/assets/2eeb7df6-86da-4565-8c18-a169e8ccabd3)
 # Thinking Claude
 
 Let Claude think comprehensively before responding!
